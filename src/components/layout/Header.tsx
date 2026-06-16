@@ -64,7 +64,7 @@ export default function Header() {
             />
           </div>
           <span className="font-extrabold text-base sm:text-xl md:text-2xl tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-brand-primary to-brand-secondary drop-shadow-sm transition-transform hover:scale-105 duration-300 whitespace-nowrap">
-            Suman Dental Clinic
+            Suma Dental Clinic
           </span>
         </Link>
 
